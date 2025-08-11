@@ -17,17 +17,17 @@
 
 Инструменты и технологии:
 
-▫️ Python (Pandas, NumPy, Matplotlib, Seaborn)
+▫️Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-▫️ SQL (JOIN, GROUP BY, подзапросы, оконные функции)
+▫️SQL (JOIN, GROUP BY, подзапросы, оконные функции)
 
 ▫️Анализ данных (обработка и очистка, визуализация, описательная статистика)
 
 ▫️Применение алгоритмов машинного обучения, знание их основных метрик
 
-▫️ Опыт работы с Git
+▫️Опыт работы с Git
 
-▫️ R (ggplot, dplyr, caret, tidyverse, RMarkdown)
+▫️R (ggplot, dplyr, caret, tidyverse, RMarkdown)
 
 ▫️Loginom
 
