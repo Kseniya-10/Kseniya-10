@@ -16,17 +16,28 @@
 Социальные сети:
 
 Инструменты и технологии:
+
 ● Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 ● SQL (JOIN, GROUP BY, подзапросы, оконные функции)
+
 ● Анализ данных (обработка и очистка, визуализация, описательная статистика)
+
 ● Применение алгоритмов машинного обучения, знание их основных метрик
+
 ● Опыт работы с Git
+
 ● R (ggplot, dplyr, caret, tidyverse, RMarkdown)
+
 ● Loginom
+
 ● Excel (основные функции)
 
 Пройденные курсы:
-| Header1 | Header2 | | ------- | ------- | | cell1 | cell2 | | cell3 | cell4 |  
+
+Header1 | Header2 | Header3
+: ------| :-----: |--------:
+cell1   | cell2   | cell3 
 <!--
 **Kseniya-10/Kseniya-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
