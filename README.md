@@ -14,7 +14,10 @@
 
 
 Социальные сети:
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ce12be02-9502-4843-96b2-ec9c94f15342" />
+
 Инструменты и технологии:
+
 Пройденным курсы:
 <!--
 **Kseniya-10/Kseniya-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
