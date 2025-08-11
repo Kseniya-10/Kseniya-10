@@ -9,7 +9,7 @@
 
 ▫️[Использование методов иерархической кластеризации и алгоритма k-means для определения качества воды]()
 
-▫️[Создание базы данных кофейни]([git@github.com:Kseniya-10/Database-project.git](https://github.com/Kseniya-10/Database-project.git))
+▫️[Создание базы данных кофейни](https://github.com/Kseniya-10/Database-project.git)
 
 ▫️[Проект по UML - модели системы "склад-магазин"]()
 
