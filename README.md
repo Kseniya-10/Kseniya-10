@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👩‍💻 Обо мне:
 
 <!--
 **Kseniya-10/Kseniya-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
