@@ -29,7 +29,10 @@
 
 ▫️Loginom
 
-▫️Excel (основные функции)
+▫️Microsoft Office Excel
+
+▫️Microsoft Office PowerPoint
+
 
 ## ⌨️ Пройденные курсы:
 
