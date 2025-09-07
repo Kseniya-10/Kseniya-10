@@ -31,7 +31,7 @@
 
 ▫️Microsoft Office Excel
 
-▫️Microsoft Office PowerPoint
+▫️[Microsoft Office PowerPoint](Презентация к итоговой аттестационной работе.pdf)
 
 
 ## ⌨️ Пройденные курсы:
