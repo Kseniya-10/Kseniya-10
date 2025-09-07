@@ -27,7 +27,7 @@
 
 ▫️R (ggplot, dplyr, caret, tidyverse, RMarkdown)
 
-▫️[Loginom](git@github.com:Kseniya-10/Term-Project_2.git)
+▫️[Loginom](https://github.com/Kseniya-10/Term-Project_2.git)
 
 ▫️Microsoft Office Excel
 
