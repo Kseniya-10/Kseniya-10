@@ -18,14 +18,14 @@
 <details>
 <summary>Python (Pandas, NumPy, Matplotlib, Seaborn)</summary>
 <ul>
-<li><a href="https://github.com/Kseniya-10/Innopolis-Project-2024.git">▫️Анализ задержек авиарейсов</a></li>
+<li><a href="https://github.com/Kseniya-10/Innopolis-Project-2024.git">Анализ задержек авиарейсов</a></li>
 </ul>
 </details>
 
 <details>
 <summary>SQL (JOIN, GROUP BY, подзапросы, оконные функции)</summary>
 <ul>
-<li><a href="https://github.com/Kseniya-10/Database-project.git">▫️Создание базы данных кофейни</a></li>
+<li><a href="https://github.com/Kseniya-10/Database-project.git">Создание базы данных кофейни</a></li>
 </ul>
 </details>
 
