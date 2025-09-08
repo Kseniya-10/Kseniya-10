@@ -15,10 +15,19 @@
 
 ## 🔧 Инструменты и технологии:
 
+<details>  
+<summary>Пример</summary>  
+<ul><li>This dropdown contains</li>  
+<li>a list!</li></ul>  
+</details>  
 
-<summary>▫️Python (Pandas, NumPy, Matplotlib, Seaborn)</summary>  
+<details>  
+<summary>Пример</summary>  
 This is a dropdown with text!  
 </details>  
+
+▫️Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 ▫️SQL (JOIN, GROUP BY, подзапросы, оконные функции)
 
 ▫️Анализ данных (обработка и очистка, визуализация, описательная статистика)
