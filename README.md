@@ -17,9 +17,16 @@
 
 <details>  
 <summary>Python (Pandas, NumPy, Matplotlib, Seaborn)</summary>  
-<ul><li>[Анализ задержек авиарейсов](https://github.com/Kseniya-10/Innopolis-Project-2024.git)</li>  
+<ul><li> [Анализ задержек авиарейсов](https://github.com/Kseniya-10/Innopolis-Project-2024.git) </li>  
 </ul>  
 </details>  
+
+<details>
+<summary>Python</summary>
+<ul>
+<li><a href="https://yandex.ru/search/?text=%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F+%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%B2+github+%D1%81+%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8&lr=213&clid=2270455&win=706">Анализ задержек авиарейсов_2</a></li>
+</ul>
+</details>
 
 <details>  
 <summary> SQL (JOIN, GROUP BY, подзапросы, оконные функции)</summary>  
