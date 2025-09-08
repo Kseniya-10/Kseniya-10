@@ -67,9 +67,9 @@
 </ul>
 </details>
 
-▫️Microsoft Office Excel
+▷ Microsoft Office Excel
 
-▫️Опыт работы с Git
+▷ Опыт работы с Git
 
 
 
