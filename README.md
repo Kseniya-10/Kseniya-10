@@ -15,7 +15,7 @@
 
 ## 🔧 Инструменты и технологии:
 
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
 <summary>Python (Pandas, NumPy, Matplotlib, Seaborn)</summary>
 <ul>
 <li><a href="https://github.com/Kseniya-10/Innopolis-Project-2024.git">Анализ задержек авиарейсов</a></li>
