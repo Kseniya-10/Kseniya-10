@@ -17,13 +17,15 @@
 
 <details>  
 <summary>Python (Pandas, NumPy, Matplotlib, Seaborn)</summary>  
-<ul><li>This dropdown contains</li>  
-<li>a list!</li></ul>  
+<ul><li>[Анализ задержек авиарейсов](https://github.com/Kseniya-10/Innopolis-Project-2024.git)</li>  
+</ul>  
 </details>  
 
-▫️Python (Pandas, NumPy, Matplotlib, Seaborn)
-
-▫️SQL (JOIN, GROUP BY, подзапросы, оконные функции)
+<details>  
+<summary> SQL (JOIN, GROUP BY, подзапросы, оконные функции)</summary>  
+<ul><li>[Создание базы данных кофейни](https://github.com/Kseniya-10/Database-project.git)</li>  
+</ul>  
+</details>  
 
 ▫️Анализ данных (обработка и очистка, визуализация, описательная статистика)
 
