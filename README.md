@@ -16,14 +16,9 @@
 ## 🔧 Инструменты и технологии:
 
 <details>  
-<summary>Пример</summary>  
+<summary>Python (Pandas, NumPy, Matplotlib, Seaborn)</summary>  
 <ul><li>This dropdown contains</li>  
 <li>a list!</li></ul>  
-</details>  
-
-<details>  
-<summary>Пример</summary>  
-This is a dropdown with text!  
 </details>  
 
 ▫️Python (Pandas, NumPy, Matplotlib, Seaborn)
