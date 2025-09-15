@@ -67,6 +67,15 @@
 </ul>
 </details>
 
+<details>
+<summary>BPMN</summary>
+<ul>
+<li><a href="https://github.com/Kseniya-10/Innopolis-Project-2024.git">Анализ задержек авиарейсов</a></li>
+<li><a href="https://github.com/Kseniya-10/Term-Project_2.git">Анализ гендерных различий в состоянии здоровья старшего подросткового возраста</a></li>
+<li><a href="https://github.com/Kseniya-10/Term-Project_3.git">Использование методов иерархической кластеризации и алгоритма k-means для определения качества воды</a></li>
+</ul>
+</details>
+
 ▷ Microsoft Office Excel
 
 ▷ Опыт работы с Git
