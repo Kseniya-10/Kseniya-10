@@ -3,11 +3,11 @@
 
 ## 📁 Командные проекты:
 
-▫️[Телеграмм-бот](https://github.com/loli-jpg/Project.git)
 <details>
-<summary>Детали проекта</summary>
+<summary>Телеграмм-бот</summary>
 <ul>
-<li><a href="https://github.com/Kseniya-10/Innopolis-Project-2024/blob/main/Презентация%20к%20итоговой%20аттестационной%20работе.pdf">Пример работы</a></li>
+<li><a href="https://github.com/loli-jpg/Project.git">Проект</a></li>
+<li><a href="https://github.com/Kseniya-10/Innopolis-Project-2024/blob/main/Презентация%20к%20итоговой%20аттестационной%20работе.pdf">О моей роли</a></li>
 </ul>
 </details>
 
