@@ -7,7 +7,7 @@
 <summary>Телеграмм-бот</summary>
 <ul>
 <li><a href="https://github.com/loli-jpg/Project.git">Проект</a></li>
-<li><a href="https://github.com/Kseniya-10/Innopolis-Project-2024/blob/main/Презентация%20к%20итоговой%20аттестационной%20работе.pdf">О моей роли</a></li>
+<li><a href="https://github.com/Kseniya-10/playlist_bot_description.git">О моей роли</a></li>
 </ul>
 </details>
 
