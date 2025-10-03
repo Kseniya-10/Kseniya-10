@@ -3,13 +3,7 @@
 
 ## 📁 Командные проекты:
 
-<details>
-<summary>Телеграмм-бот</summary>
-<ul>
-<li><a href="https://github.com/loli-jpg/Project.git">Проект</a></li>
-<li><a href="https://github.com/Kseniya-10/playlist_bot_description.git">О моей роли</a></li>
-</ul>
-</details>
+▫️[Телеграмм-бот](https://github.com/loli-jpg/Project.git)
 
 ## 📁 Мои проекты:
 
